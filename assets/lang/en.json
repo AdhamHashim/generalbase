@@ -1,0 +1,19 @@
+{
+  "passValidation": "Please enter at least 6 letters or numbers",
+  "mailValidation": "Please enter a valid email",
+  "phoneValidation": "Please enter a valid mobile phone",
+  "confirmValidation": "Please enter the password identical",
+  "fillField":"This field is required",
+  "checkInternet":"An error occurred connecting to the Internet, please try again",
+  "ErrorToasts_nointernetDesc":"An error occurred connecting to the Internet, please try again",
+  "ErrorToasts_notContain":"There is no content",
+  "ErrorToasts_notContainDesc":"Sorry, there is no content available to display",
+  "operationFaild": "The operation was not successful",
+   "progressFaild":" Error processing data",
+   "intenetWeaness": "Internet signal is weak!",
+   "serverError": "there is a problem with the server, please check with the application administration",
+
+   "-------------------- Enter Your app Translation Under this Line ----------------------------- ":""
+
+
+}
